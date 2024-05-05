@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://malvetro.corsica/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://malvetro.corsica/</loc>
+</url>
+<url>
+<loc>https://malvetro.corsica/acces/</loc>
+<lastmod>2022-08-17T15:52:28+01:00</lastmod>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/4/Lien-Maps.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://malvetro.corsica/commentaires/</loc>
+<lastmod>2022-12-16T16:30:41+00:00</lastmod>
+</url>
+<url>
+<loc>https://malvetro.corsica/faq/</loc>
+<lastmod>2022-12-16T16:09:37+00:00</lastmod>
+</url>
+<url>
+<loc>https://malvetro.corsica/guide/</loc>
+<lastmod>2022-08-12T15:25:15+01:00</lastmod>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/7/duree-de-conduite-en-corse-1.jpeg</image:loc>
+<image:title><![CDATA[Crédit: https://www.paradisu.info/voyager/sur-les-routes-de-corse/]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://malvetro.corsica/piscine/</loc>
+<lastmod>2022-12-16T16:39:12+00:00</lastmod>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_141709-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Piscine]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_135302-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Transat]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_141823-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Parasol]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_141836-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Parasol]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_141937-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Vue]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_141942-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Vue]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/8/gallery/20220729_142054-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Douchette]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://malvetro.corsica/prenez-contact-pour-connaitre-les-disponibilitees/</loc>
+<lastmod>2022-08-02T10:31:43+01:00</lastmod>
+</url>
+<url>
+<loc>https://malvetro.corsica/studio-inra/</loc>
+<lastmod>2022-12-16T16:39:24+00:00</lastmod>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_140745-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Chambre Studio avec 1 lit double 3 lits simples]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_140626-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Terrasse Studio]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_140638-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Terrasse Studio]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_140726-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Chambre Studio avec 1 lit double]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_140752-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Chambre Studio avec 1 lit double 3 lits simples]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_140814-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Mezzanine Chambre Studio avec 1 lit simple]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141231-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Kitchenette]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141238-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Kitchenette]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141247-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Salle de Bain]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141254-2-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Vasque]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141315-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Douche]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141350-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Kitchenette]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://malvetro.corsica/media/posts/3/gallery/20220729_141419-thumbnail.jpeg</image:loc>
+<image:title><![CDATA[Chambre Studio avec 2 lits simples]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://malvetro.corsica/terrain/</loc>
+<lastmod>2022-08-02T10:29:58+01:00</lastmod>
+</url>
+</urlset>
